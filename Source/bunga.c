@@ -50,7 +50,7 @@ void main(int argc, char **argv) {
    printf("* Req: DOS, 640KB RAM, 1MB HD, Sound Optional          *\n\r");
    printf("********************************************************\n\r");
    printf("BETA VERSION - Still in development...\n\n\r");
-   printf("Report Any Bugs To tomallen@megatechsoftware.com\n\n\r");
+   printf("Report Any Bugs To info@brainscanmedia.com\n\n\r");
 
    printf("KEYS:\n\r");
    printf("      l = Drop Lives to 0        LEFTARROW = Pan Board Left\n\r");
