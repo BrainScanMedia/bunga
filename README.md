@@ -8,9 +8,9 @@ to walk with animated scenes, but never finished the jumping function with
 gravity to make him fall back down, nor did I finish the pixel hit detection
 to make him fall in the water or to let him shoot.
 
-![Screenshot](https://www.brainscanmedia.com/github/bunga1.png)
+![Screenshot](https://www.brainscanmedia.com/assets/github/bunga1.png)
 
-![Screenshot](https://www.brainscanmedia.com/github/bunga2.png)
+![Screenshot](https://www.brainscanmedia.com/assets/github/bunga2.png)
 
 License
 -------
